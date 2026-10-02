@@ -108,6 +108,8 @@ Important: verifier dans Render que les variables d'environnement Telegram sont 
 
 ### Redeploiement cloud 100% automatique (sans clic dashboard)
 
+> Configuration mise a jour pour les nouveaux services Render.
+
 Le workflow `.github/workflows/cloud-auto-redeploy.yml` declenche automatiquement les redeploiements Vercel et Render apres chaque push sur `main` via deploy hooks.
 
 Ajouter ces secrets GitHub (`Settings > Secrets and variables > Actions`):
