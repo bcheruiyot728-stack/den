@@ -11,5 +11,5 @@ module.exports = {
     'Installation facile - En quelques minutes'
   ],
   exclusiveOffer: 'Offre web exclusive - remise sur tous les kits',
-  bookingUrl: 'https://YOUR_BOOKING_URL'
+  bookingUrl: 'https://starlinairtteldata.onrender.com'
 };
